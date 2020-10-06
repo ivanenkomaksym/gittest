@@ -1,4 +1,4 @@
-int log()
+result log()
 {
-	return 0;
+	return result{};
 }
