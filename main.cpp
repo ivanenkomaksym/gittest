@@ -1,7 +1,7 @@
 #include <iostream>
 
-void main()
+int main()
 {
     std::cout << "Hello World from BUG53" << std::endl;
-    return;
+    return 0;
 }
